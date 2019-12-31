@@ -11,5 +11,5 @@ def input_to_index(input)
   index = input.to_i - 1 #5 index =4
 end
 def move(board, index, player="X")
-
+  board = ["   ","   ","   ","   ","   ","   ","   ","   ","   "]
 end
